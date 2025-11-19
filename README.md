@@ -59,7 +59,7 @@ Before you begin, ensure you have the following installed:
 3.  **Frontend Setup**:
     ```bash
     cd ../frontend
-    npm install
+    npm instal
     ```
 
 ### Database Setup
